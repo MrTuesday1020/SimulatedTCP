@@ -1,0 +1,3 @@
+('Amount of data received: ', 1593)
+('Number of data segments received: ', 32)
+('Amount of data duplicate segments: ', 18)
